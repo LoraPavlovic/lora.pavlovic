@@ -1,0 +1,78 @@
+h1, h2{
+	font-family:Garamond, Helvetica, Arial, "serif";
+	color:#4e7f29;	
+	margin-left:50%;
+	padding-top:10px;
+}
+nav{
+	color:#cb401e;
+	font-family: Verdana, "Lucida Bright", Tahoma, "sans- serif";
+}
+.o_meni{
+	color:darkgray;
+	background-color:#dac8c4;
+}
+.liste{
+	background-color:rgba:(255, 255, 255, 0.9);
+	padding:20px;
+	margin:20px;
+	width:50%;
+}
+mark{
+	color:black;
+}
+img{
+	height:400px;
+	padding-left:10px;
+}
+iframe{
+	padding-left:10px;
+}
+video{
+	padding-left:10px;
+}
+
+p{
+	color: #fff;
+	font-family: Verdana, "Lucida Bright", Tahoma, "sans- serif";
+	font-size:16px;
+	line-height:18px;
+	width: 688px;
+	background-color: #6e3c31;
+	padding: 20px;
+	
+}
+
+.pozadina{
+	background-image:url("dokumenti/slik2.jpg");
+}
+
+
+button{
+	color:black;
+	background-color:white;
+	padding:5px;
+	line-height:40px;
+	border: 1px solid #000;
+	width: 80px;
+	height:50px;
+}
+button:hover{
+	background-color:lightblue;
+	
+}
+
+#nav li{
+	color:black;
+	background-color:white;
+	padding:5px;
+	line-height:40px;
+	border: 1px solid #000;
+	width: 110px;
+	height:30px;
+}
+#nav li:hover{
+	background-color:lightblue;
+	width: 110px;
+	height:30px;
+}
